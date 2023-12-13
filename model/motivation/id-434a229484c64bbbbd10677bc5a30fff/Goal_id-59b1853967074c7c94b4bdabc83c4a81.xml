@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F-05.7 - Tila- ja laitetarkastukset (ainoastaan TL II / EU-S)"
+    id="id-59b1853967074c7c94b4bdabc83c4a81"
+    documentation="Vaatimus&#xA;&#xA;1. Organisaation on tarkastettava kaikki elektroniset laitteet, ennen kuin niitä käytetään sellaisella hallinnollisella alueella, jossa käsitellään turvallisuusluokan II tietoja, mikäli tietoihin kohdistuva uhka arvioidaan korkeaksi.&#xA;2. Myös alue on tarvittaessa tarkastettava fyysisesti tai teknisesti säännöllisin väliajoin. Tarkastukset tulisi suorittaa myös mahdollisen luvattoman sisäänpääsyn tai sen epäilyn johdosta.&#xA;&#xA;Lähde (906/2019&#xA;ja/tai 1101/2019)&#xA;1. VM 2020:19, 16&#xA;2. VM 2020:19, 16&#xA;Lähde (2013/488/EU)&#xA;1. II liite, kohta 18&#xA;2. II liite, kohta 17 c&#xA;&#xA;Lisätietoja&#xA;&#xA;Yleistä: Mikäli kyseisten elektronisten laitteiden tarkastaminen ei ole mahdollista luotettavasti (esim. matkapuhelimet, älykellot, jne.), laitteet tulee jättää tilan ulkopuolelle esimerkiksi tähän tarkoitukseen varattuun säilytysratkaisuun.&#xA;&#xA;Katso kohta F-07 - Teknisesti suojattu turva-alue.&#xA;"/>

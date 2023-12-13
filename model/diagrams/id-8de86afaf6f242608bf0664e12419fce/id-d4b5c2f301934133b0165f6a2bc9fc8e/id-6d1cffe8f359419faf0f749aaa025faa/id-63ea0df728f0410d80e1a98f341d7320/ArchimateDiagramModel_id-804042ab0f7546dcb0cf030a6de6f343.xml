@@ -1,0 +1,46 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="T-06 - Toimintahäiriöt ja poikkeustilanteet suppea"
+    id="id-804042ab0f7546dcb0cf030a6de6f343"
+    viewpoint="motivation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-49e70d59f80a4bf9b3eb49845c9671fa"
+      targetConnections="id-1a09e587f0f9477fab4642852ad6ae42"
+      font="1|Arial|10.0|0|COCOA|1|ArialMT"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <bounds
+        x="12"
+        y="48"
+        width="289"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-57d7fbc8093144b28ac83cbb6bd3c653.xml#id-57d7fbc8093144b28ac83cbb6bd3c653"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-115dd48f630c4c09a67e02d148cff6ec"
+      font="1|Arial|10.0|0|COCOA|1|ArialMT">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1a09e587f0f9477fab4642852ad6ae42"
+        font="1|Arial|10.0|0|COCOA|1|ArialMT"
+        source="id-115dd48f630c4c09a67e02d148cff6ec"
+        target="id-49e70d59f80a4bf9b3eb49845c9671fa">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-eeb0f13b5275447bb45b3fa0c88267c2.xml#id-eeb0f13b5275447bb45b3fa0c88267c2"/>
+    </sourceConnections>
+    <bounds
+        x="12"
+        y="136"
+        width="289"
+        height="165"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-219ab04edb43433b9d50adeafe637f5a.xml#id-219ab04edb43433b9d50adeafe637f5a"/>
+  </children>
+</archimate:ArchimateDiagramModel>

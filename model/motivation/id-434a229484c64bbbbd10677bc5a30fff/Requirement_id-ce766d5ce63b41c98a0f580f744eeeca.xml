@@ -1,0 +1,4 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Alueella voi käsitellä turvallisuusluokkien IV-II tietoa, jos pääsy tietoihin on suojattu sivullisilta. Päätelaitteessa olevan turvallisuusluokitellun tiedon käsittelyssä tulee lisäksi huolehtia, että päätelaite ja tietoliikennejärjestelyt täyttävät niihin kohdistuvat vaatimukset."
+    id="id-ce766d5ce63b41c98a0f580f744eeeca"/>

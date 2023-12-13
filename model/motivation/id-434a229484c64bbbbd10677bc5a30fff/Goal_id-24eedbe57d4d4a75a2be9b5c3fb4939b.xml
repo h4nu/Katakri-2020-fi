@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F-05 Hallinnollinen alue"
+    id="id-24eedbe57d4d4a75a2be9b5c3fb4939b"
+    documentation="Hallinnollisella alueella tarkoitetaan normaaliin työskentelyyn tarkoitettuja alueita ja tiloja, kuten toimistotilaa tai useista eri toimistotiloista muodostuvaa kokonaisuutta. Turvallisuusluokitellun tiedon omistaja varmistaa, että niihin on itsenäinen pääsy ainoastaan ennalta valtuutetuilla henkilöillä.&#xA;&#xA;Hallinnollisen alueen tulee täyttää tässä osiossa esitetyt vähimmäisvaatimukset. Vähimmäisvaatimusten lisäksi tulee suunnitella, vastuuttaa, toteuttaa ja ylläpitää riskien arviointiin (F-02) ja monitasoiseen suojausperiaatteeseen (F-03) perustuvat muut riskienhallintatoimenpiteet siten, että turvallisuusluokiteltuihin tietoihin kohdistuvat jäännösriskit voidaan hyväksyä ja turvatoimien tavoitteet (F-01) saavutetaan.&#xA;"/>

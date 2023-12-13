@@ -1,0 +1,46 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="T-13 - Tiedonsaantitarve ja käsittely-oikeudet suppea"
+    id="id-f3f9d8c2eb8548e781f713998cd9529a"
+    viewpoint="motivation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f01af01cc8d14c379b156de70ff8bde9"
+      targetConnections="id-6ef9fef84b8b498284f94a8423003bda"
+      font="1|Arial|10.0|0|COCOA|1|ArialMT"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <bounds
+        x="24"
+        y="36"
+        width="493"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-01fa35b2585b4dffa67cc0adb7366046.xml#id-01fa35b2585b4dffa67cc0adb7366046"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e0b7e013a20842288180f22ceb1983d6"
+      font="1|Arial|10.0|0|COCOA|1|ArialMT">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6ef9fef84b8b498284f94a8423003bda"
+        font="1|Arial|10.0|0|COCOA|1|ArialMT"
+        source="id-e0b7e013a20842288180f22ceb1983d6"
+        target="id-f01af01cc8d14c379b156de70ff8bde9">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-262028076d454e0bab57dfabfd549607.xml#id-262028076d454e0bab57dfabfd549607"/>
+    </sourceConnections>
+    <bounds
+        x="24"
+        y="124"
+        width="493"
+        height="93"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-e4b816f774c646b8bb1c1eb3ff56a0bf.xml#id-e4b816f774c646b8bb1c1eb3ff56a0bf"/>
+  </children>
+</archimate:ArchimateDiagramModel>

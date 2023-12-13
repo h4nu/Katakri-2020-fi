@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F-06.8 - Salaa katselun estäminen"
+    id="id-314c7745b65c46ff91c3097efeeb4847"
+    documentation="Vaatimus&#xA;&#xA;Jos turvallisuusluokiteltuihin tietoihin kohdistuu salaa katselun riski, vahingossa tapahtuva salaa katselu mukaan lukien, on riskin torjumiseksi tehtävä asianmukaiset toimenpiteet.&#xA;&#xA;Lähde (906/2019&#xA;ja/tai 1101/2019)&#xA;VM 2020:19, 23&#xA;Lähde (2013/488/EU)&#xA;II liite, kohta 6&#xA;&#xA;Lisätietoja&#xA;Yleistä: Salaa katselun riskiä voidaan pienentää esimerkiksi työpisteiden sijoittelun ja näkösuojasermien avulla sekä käyttämällä sälekaihtimia, verhoja tai tietokoneen näytön suojia.&#xA;"/>

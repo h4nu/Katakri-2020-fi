@@ -1,0 +1,46 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="T-09 - Työsuhteen aikaiset muutokset turvallisuusluokiteltujen tietojen käsittelyssä suppea"
+    id="id-80e9e15c2c4442ab85c31e63af47cc00"
+    viewpoint="motivation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5abd8919d64f455bb9fc3e2e0fd12e4a"
+      targetConnections="id-ee8c1970eb9641408c636b3a236b4bf2"
+      font="1|Arial|10.0|0|COCOA|1|ArialMT"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <bounds
+        x="24"
+        y="24"
+        width="265"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-e2603ae35cd046d1ba90606ad392a149.xml#id-e2603ae35cd046d1ba90606ad392a149"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-aad07db43a7844de81e08319a482fdae"
+      font="1|Arial|10.0|0|COCOA|1|ArialMT">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ee8c1970eb9641408c636b3a236b4bf2"
+        font="1|Arial|10.0|0|COCOA|1|ArialMT"
+        source="id-aad07db43a7844de81e08319a482fdae"
+        target="id-5abd8919d64f455bb9fc3e2e0fd12e4a">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-9f6e23f638be4ce28a1d129fe548972f.xml#id-9f6e23f638be4ce28a1d129fe548972f"/>
+    </sourceConnections>
+    <bounds
+        x="24"
+        y="112"
+        width="265"
+        height="81"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-20805aa392f74cebad1081380398b69c.xml#id-20805aa392f74cebad1081380398b69c"/>
+  </children>
+</archimate:ArchimateDiagramModel>

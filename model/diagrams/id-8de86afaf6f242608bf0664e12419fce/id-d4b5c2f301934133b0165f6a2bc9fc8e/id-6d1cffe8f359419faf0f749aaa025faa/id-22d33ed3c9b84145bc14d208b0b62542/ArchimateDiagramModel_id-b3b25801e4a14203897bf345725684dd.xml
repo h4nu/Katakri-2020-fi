@@ -1,0 +1,46 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="T-11 - Salassapito- ja vaitiolovelvollisuus suppea"
+    id="id-b3b25801e4a14203897bf345725684dd"
+    viewpoint="motivation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-faf63e379cda4b16bdf49746b5c2572d"
+      targetConnections="id-1f033b163a484a5da2d0a106b5497b3c"
+      font="1|Arial|10.0|0|COCOA|1|ArialMT"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <bounds
+        x="24"
+        y="24"
+        width="265"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-ab9c0f10ef314b24b7e095736a41a502.xml#id-ab9c0f10ef314b24b7e095736a41a502"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c8d4054020c84220b13948799fc0b409"
+      font="1|Arial|10.0|0|COCOA|1|ArialMT">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1f033b163a484a5da2d0a106b5497b3c"
+        font="1|Arial|10.0|0|COCOA|1|ArialMT"
+        source="id-c8d4054020c84220b13948799fc0b409"
+        target="id-faf63e379cda4b16bdf49746b5c2572d">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-b82bb35caa474f03bb501df8df0f622f.xml#id-b82bb35caa474f03bb501df8df0f622f"/>
+    </sourceConnections>
+    <bounds
+        x="24"
+        y="100"
+        width="265"
+        height="105"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-7af155b5388543c3a55a61228a808a56.xml#id-7af155b5388543c3a55a61228a808a56"/>
+  </children>
+</archimate:ArchimateDiagramModel>

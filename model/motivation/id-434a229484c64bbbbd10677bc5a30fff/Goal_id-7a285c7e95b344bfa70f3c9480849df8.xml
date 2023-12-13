@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F-02 Fyysisten turvatoimien riskien arviointi"
+    id="id-7a285c7e95b344bfa70f3c9480849df8"
+    documentation="Fyysisten turvatoimien valinnan on perustuttava riskien arviointiin. Organisaation on sovellettava riskinhallintaprosessia turvallisuusluokiteltujen tietojen suojaamiseksi tiloissaan, jotta varmistetaan, että fyysiset turvatoimet (F-03 - F-07) vastaavat arvioituja riskejä, jäännösriskit voidaan hyväksyä ja valitut turvatoimet täyttävät tavoitteet (F-01). Riskien arvioinnissa tulee huomioida sekä auditoitavan että auditoivan tahon näkemys riskeistä ja valittujen turvatoimien riittävyydestä. Sekä auditoitavan että auditoivan tahon on hyväksyttävä fyysisiin turvatoimiin liittyvä jäännösriski. Organisaation tulee pystyä osoittamaan perustelut valituille turvatoimille."/>

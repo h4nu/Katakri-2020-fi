@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fyysisten turvatoimien tavoitteena on estää luvaton pääsy turvallisuusluokiteltuihin tietoihin."
+    id="id-5dbd4d99e913446181644b3eecbd1168"
+    documentation="1. Fyysisten turvatoimien tavoitteena on estää luvaton pääsy turvallisuusluokiteltuihin tietoihin:&#xA;a) varmistamalla, että turvallisuusluokiteltuja tietoja käsitellään ja säilytetään asianmukaisesti;&#xA;b) mahdollistamalla henkilöstön luokitus ja pääsy turvallisuusluokiteltuihin tietoihin tiedonsaantitarpeen ja tarvittaessa turvallisuusselvitysten perusteella;&#xA;c) ehkäisemällä, estämällä ja havaitsemalla luvattomat toimet; ja&#xA;d) estämällä oikeudetta tapahtuva tunkeutuminen tai viivyttämällä sitä."/>

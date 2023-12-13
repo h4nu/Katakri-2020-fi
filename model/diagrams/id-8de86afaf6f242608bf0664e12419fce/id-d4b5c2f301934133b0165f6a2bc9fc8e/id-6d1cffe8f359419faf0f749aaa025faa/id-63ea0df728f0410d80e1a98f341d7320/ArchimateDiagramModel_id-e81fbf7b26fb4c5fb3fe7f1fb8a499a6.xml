@@ -1,0 +1,46 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="T-07 - Turvallisuuspoikkeamien hallinta suppea"
+    id="id-e81fbf7b26fb4c5fb3fe7f1fb8a499a6"
+    viewpoint="motivation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-166a9f8f12bf4a00add6f3cf4ec75f61"
+      targetConnections="id-ce1b6a26f9e04e9cb1c942721d39e68e"
+      font="1|Arial|10.0|0|COCOA|1|ArialMT"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <bounds
+        x="24"
+        y="36"
+        width="313"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-9c12a623c72a449b927718c81a1d70e3.xml#id-9c12a623c72a449b927718c81a1d70e3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1f0b2957219945aea79839786f5466c1"
+      font="1|Arial|10.0|0|COCOA|1|ArialMT">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ce1b6a26f9e04e9cb1c942721d39e68e"
+        font="1|Arial|10.0|0|COCOA|1|ArialMT"
+        source="id-1f0b2957219945aea79839786f5466c1"
+        target="id-166a9f8f12bf4a00add6f3cf4ec75f61">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-5f9c68a62f7847bdaa79525a4a7de418.xml#id-5f9c68a62f7847bdaa79525a4a7de418"/>
+    </sourceConnections>
+    <bounds
+        x="24"
+        y="124"
+        width="313"
+        height="165"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-587b1fddf19844e1b87151aa25872ae0.xml#id-587b1fddf19844e1b87151aa25872ae0"/>
+  </children>
+</archimate:ArchimateDiagramModel>

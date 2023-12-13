@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F-08 Tietoaineistoturvallisuus"
+    id="id-f2cf21752cd84f708111deb2089f4e2f"
+    documentation="Tietoaineistoturvallisuuden osiossa on kuvattu vaatimukset turvallisuusluokiteltujen tietojen paperimuodossa tapahtuvaan käsittelyyn tiedon elinkaaren eri vaiheissa. Mikäli turvallisuusluokiteltujen paperimuodossa olevien tietojen kirjaamiseen, tulostamiseen, kopioimiseen tai tuhoamiseen käytetään tietojärjestelmiä (esimerkiksi monitoimilaite), tulee tietojärjestelmän turvallisuus arvioida I-osa-alueen vaatimusten mukaisesti.&#xA;"/>
