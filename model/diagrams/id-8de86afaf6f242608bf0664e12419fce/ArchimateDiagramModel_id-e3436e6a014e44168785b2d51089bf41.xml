@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Katakri 2020"
     id="id-e3436e6a014e44168785b2d51089bf41"
-    documentation="Katakri on jaettu kolmeen osa-alueeseen. Turvallisuusjohtamista koskevassa (T) osa-alueessa pyritään varmistumaan siitä, että organisaatiolla on toimiva tietoturvallisuuden hallintajärjestelmä sekä riittävät henkilöstöturvallisuuden menettelyt turvallisuusluokiteltujen tietojen suojaamiseen. Fyysistä turvallisuutta koskevassa (F) osa-alueessa kuvataan turvallisuusluokiteltujen tietojen fyysistä käyttöympäristöä koskevat turvallisuusvaatimukset. Teknistä tietoturvallisuutta koskevassa (I) osa-alueessa kuvataan puolestaan tekniselle tietojenkäsittely-ympäristölle asetetut turvallisuusvaatimukset."
+    documentation="Katakri on jaettu kolmeen osa-alueeseen. &#xA;&#xA;Turvallisuusjohtamista koskevassa (T) osa-alueessa pyritään varmistumaan siitä, että organisaatiolla on toimiva tietoturvallisuuden hallintajärjestelmä sekä riittävät henkilöstöturvallisuuden menettelyt turvallisuusluokiteltujen tietojen suojaamiseen. &#xA;&#xA;Fyysistä turvallisuutta koskevassa (F) osa-alueessa kuvataan turvallisuusluokiteltujen tietojen fyysistä käyttöympäristöä koskevat turvallisuusvaatimukset. &#xA;&#xA;Teknistä tietoturvallisuutta koskevassa (I) osa-alueessa kuvataan puolestaan tekniselle tietojenkäsittely-ympäristölle asetetut turvallisuusvaatimukset."
     viewpoint="motivation">
   <children
       xsi:type="archimate:DiagramModelReference"
@@ -51,7 +51,7 @@
     <bounds
         x="48"
         y="48"
-        width="721"
+        width="715"
         height="55"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
