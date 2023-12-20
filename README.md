@@ -1,2 +1,2 @@
 Repositoriossa on mallinnettu Kansallisessa turvallisuusauditointikriteeristössä esitetyt vaatimukset ArchiMate -kuvauskielellä.
-Elementtien sisältö perustuu Kansallinen turvallisuusviranomaisen julkaisemaan dokumenttiin Katakri 2020 – tietoturvallisuuden auditointityökalu viranomaisille.
+Elementtien sisältö perustuu Kansalliden turvallisuusviranomaisen julkaisemaan dokumenttiin Katakri 2020 – tietoturvallisuuden auditointityökalu viranomaisille.
