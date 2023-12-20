@@ -2,5 +2,5 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Katakri 2020 FI"
     id="id-4c46d6b7-bcc4-4d62-bca5-1e69c9478c7c"
-    purpose="Kansallisessa turvallisuusauditointikriteeristössä esitettyjen vaatimusten mallintaminen ArchiMate -kuvauskielellä.&#xA;Elementtien sisältö perustuu Kansallinen turvallisuusviranomaisen julkaisemaan dokumenttiin Katakri 2020 – tietoturvallisuuden auditointityökalu viranomaisille."
+    purpose="Kansallisessa turvallisuusauditointikriteeristössä esitettyjen vaatimusten mallinnus ArchiMate -kuvauskielellä.&#xA;Elementtien sisältö perustuu Kansallisen turvallisuusviranomaisen julkaisemaan dokumenttiin Katakri 2020 – tietoturvallisuuden auditointityökalu viranomaisille."
     version="5.0.0"/>
