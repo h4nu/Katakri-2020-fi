@@ -1,4 +1,4 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Jos turvallisuusluokiteltuihin tietoihin kohdistuu salaa katselun riski, vahingossa tapahtuva salaa katselu mukaan lukien, on riskin torjumiseksi tehtävä asianmukaiset toimenpiteet."
+    name="Jos turvallisuusluokiteltuihin tietoihin kohdistuu salaa katselun riski, vahingossa tapahtuva salaa katselu mukaan lukien, on riskin torjumiseksi tehtävä asianmukaiset toimenpiteet. (F-06.8)"
     id="id-c611b5f90e5140d1a00429923cc9b59e"/>
